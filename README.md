@@ -41,7 +41,7 @@ flask run
 flask --app ./app.py run
 ```
 
-## Run in dev mode 
+## Run in dev mode up
 
 ```bash
 set FLASK_APP=.app.py
